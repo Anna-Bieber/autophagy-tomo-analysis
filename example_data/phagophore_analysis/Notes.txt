@@ -1,0 +1,6 @@
+EA001_5_tomo_002
+
+segmentation labels:
+1 - inner membrane
+2 - outer-membrane
+3 - rim (roughly segmented)
