@@ -1,0 +1,6 @@
+EA009_3_tomo_001
+
+segmentation labels:
+1 - inner membrane
+2 - outer membrane
+

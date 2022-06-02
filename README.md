@@ -17,6 +17,6 @@ These scripts were developed as part of the study:
 
 *In situ structural analysis reveals membrane shape transitions during autophagosome formation*
 
-Anna Bieber,  Cristina Capitanio,  ePhilipp S. Erdmann, Fabian Fiedler, Florian Beck, Chia-Wei Lee, Delong Li,  Gerhard Hummer,  Brenda A. Schulman,  Wolfgang Baumeister and Florian Wilfling
+Anna Bieber,  Cristina Capitanio,  Philipp S. Erdmann, Fabian Fiedler, Florian Beck, Chia-Wei Lee, Delong Li,  Gerhard Hummer,  Brenda A. Schulman,  Wolfgang Baumeister and Florian Wilfling
 
 doi: https://doi.org/10.1101/2022.05.02.490291
