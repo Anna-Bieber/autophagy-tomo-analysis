@@ -7,7 +7,7 @@ Using membrane segmentations from cellular tomograms as input data, the scripts 
 
 ### Folders
 * **utilities**: collection of all custom functions used in this project.
-* **notebooks**: Jupyter notebooks showcasing the use of the custom functions in analyzing autophagosomes, phagophores and phagophore rims.
+* **notebooks**: Jupyter notebooks showcasing the use of the custom functions in analyzing autophagosomes, phagophores and phagophore rims, wrapped autophagic bodies and membrane peaks at phagophore-vacuole contact sites.
 * **example_data**: Example segmentation data of autophagic structures from tomograms of nitrogen-starved yeast cells, used as input in the notebooks.
 
 

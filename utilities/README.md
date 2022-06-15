@@ -77,3 +77,9 @@ Functions needed for constructing an idealized reference rim from a real-world p
 Dependencies:
 * numpy, scipy, pyvista, functools, time
 * utility_functions, mesh_functions, fitting_functions
+
+## contact_analysis_functions
+Specific functions to analyze membrane peaks at contact sites (in this case, peaks in the outer phagophore membrane towards the vacuole). <br />
+Dependencies:
+* numpy, scipy, pyvista
+* fitting_functions, rim_analysis_functions, histogram_functions
