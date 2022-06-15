@@ -1,0 +1,6 @@
+EA009_6_tomo_005
+
+segmentation labels:
+1 - inner membrane (autophagic body)
+2 - outer membrane (vacuole)
+
