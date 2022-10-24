@@ -19,4 +19,6 @@ These scripts were developed as part of the study:
 
 Anna Bieber,  Cristina Capitanio,  Philipp S. Erdmann, Fabian Fiedler, Florian Beck, Chia-Wei Lee, Delong Li,  Gerhard Hummer,  Brenda A. Schulman,  Wolfgang Baumeister and Florian Wilfling
 
-doi: https://doi.org/10.1101/2022.05.02.490291
+PNAS 2022, vol. 119 no. 39, https://doi.org/10.1073/pnas.2209823119
+
+biorxiv doi: https://doi.org/10.1101/2022.05.02.490291
